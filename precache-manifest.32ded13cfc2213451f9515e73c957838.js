@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "b310bbe52130a9a796cc",
-    "url": "/css/about.ea8a899a.css"
+    "revision": "8781824f4c0ece5fafb0",
+    "url": "/css/about.6174a385.css"
   },
   {
-    "revision": "3b6eb69a20062bb34dfe",
+    "revision": "d0e74b97975ff3e221c1",
     "url": "/css/app.ad3a3bab.css"
   },
   {
@@ -64,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tokopedia.7ed54399.webp"
   },
   {
-    "revision": "b4aacf9f5fb068c522e5d37c396fceeb",
+    "revision": "3780c22cee92b0dd3e7417c0684d76bc",
     "url": "/index.html"
   },
   {
-    "revision": "b310bbe52130a9a796cc",
-    "url": "/js/about.488319a8.js"
+    "revision": "8781824f4c0ece5fafb0",
+    "url": "/js/about.e00c3e5a.js"
   },
   {
-    "revision": "3b6eb69a20062bb34dfe",
-    "url": "/js/app.e3c55b08.js"
+    "revision": "d0e74b97975ff3e221c1",
+    "url": "/js/app.6b5a28ff.js"
   },
   {
     "revision": "e34120e5e60064cf0bd0",
