@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "8781824f4c0ece5fafb0",
-    "url": "/css/about.6174a385.css"
+    "revision": "984d9fde8cc930f0c3d0",
+    "url": "/css/about.dda6b568.css"
   },
   {
-    "revision": "d0e74b97975ff3e221c1",
+    "revision": "25c3ff7ebb446bc1c5bd",
     "url": "/css/app.ad3a3bab.css"
   },
   {
@@ -24,10 +24,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/Lebih_Cepat.b3ab3ddc.webp"
   },
   {
-    "revision": "4ca9548178a83bc001d38e5227a3709f",
-    "url": "/img/Logo-kartu-prakerja.4ca95481.webp"
-  },
-  {
     "revision": "c9953c50aed833e03ec737378f4fe272",
     "url": "/img/Study-Kasus.c9953c50.webp"
   },
@@ -36,20 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/Tentukan_Waktu_Sendiri.f9fa2907.webp"
   },
   {
+    "revision": "4b87af8d02473b94739c7b2431f77a33",
+    "url": "/img/belajar-coding-home-dinda.4b87af8d.webp"
+  },
+  {
     "revision": "684add1f5c6fe384bedb95719359b843",
     "url": "/img/img-mentoring.684add1f.png"
   },
   {
     "revision": "4fafef4c93355504f47b710b8f25838a",
     "url": "/img/kamu.4fafef4c.webp"
-  },
-  {
-    "revision": "4c2227cd8e8bcabdccb115b818513746",
-    "url": "/img/logo-cp.4c2227cd.webp"
-  },
-  {
-    "revision": "b32785a88822b6b636fdb8641df1bf6f",
-    "url": "/img/prakerja-about.b32785a8.webp"
   },
   {
     "revision": "c0cc8a6b7cd77350c17f5666b9316777",
@@ -64,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tokopedia.7ed54399.webp"
   },
   {
-    "revision": "3780c22cee92b0dd3e7417c0684d76bc",
+    "revision": "39f85cd3cc470bac62260ae59f603e82",
     "url": "/index.html"
   },
   {
-    "revision": "8781824f4c0ece5fafb0",
-    "url": "/js/about.e00c3e5a.js"
+    "revision": "984d9fde8cc930f0c3d0",
+    "url": "/js/about.2e07ba8a.js"
   },
   {
-    "revision": "d0e74b97975ff3e221c1",
-    "url": "/js/app.6b5a28ff.js"
+    "revision": "25c3ff7ebb446bc1c5bd",
+    "url": "/js/app.3cb9706b.js"
   },
   {
     "revision": "e34120e5e60064cf0bd0",
