@@ -60,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tokopedia.7ed54399.webp"
   },
   {
-    "revision": "665439c3d95743265472d3934ffb02c5",
+    "revision": "0c322b15c9479d4ab1ec28939191fb1b",
     "url": "/index.html"
   },
   {
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2e7164384ed165c2be6218ab583ac5cc",
     "url": "/manifest.json"
+  },
+  {
+    "revision": "7767898886fb89c565fe6c9c9ec1886f",
+    "url": "/prakerja-about.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
