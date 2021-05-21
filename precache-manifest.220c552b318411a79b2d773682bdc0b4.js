@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "7e07fe98bf87a27c35c6",
-    "url": "/css/about.dda6b568.css"
+    "revision": "84c0cc49de4dcec0fd40",
+    "url": "/css/about.95c00187.css"
   },
   {
-    "revision": "2d99d163d6eb580b64fe",
-    "url": "/css/app.ad3a3bab.css"
+    "revision": "1c1413a8f32e390dbb80",
+    "url": "/css/app.80741af9.css"
   },
   {
     "revision": "e34120e5e60064cf0bd0",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b3ab3ddc1972e7cae22da981526bd268",
     "url": "/img/Lebih_Cepat.b3ab3ddc.webp"
+  },
+  {
+    "revision": "4ca9548178a83bc001d38e5227a3709f",
+    "url": "/img/Logo-kartu-prakerja.4ca95481.webp"
   },
   {
     "revision": "c9953c50aed833e03ec737378f4fe272",
@@ -40,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/img-mentoring.684add1f.png"
   },
   {
-    "revision": "4fafef4c93355504f47b710b8f25838a",
-    "url": "/img/kamu.4fafef4c.webp"
+    "revision": "4c2227cd8e8bcabdccb115b818513746",
+    "url": "/img/logo-cp.4c2227cd.webp"
   },
   {
-    "revision": "c0cc8a6b7cd77350c17f5666b9316777",
-    "url": "/img/prakerja.c0cc8a6b.webp"
+    "revision": "f6996bbb36e5052d15546cca4e6413b6",
+    "url": "/img/prakerja.f6996bbb.png"
   },
   {
     "revision": "78fa78971693316b924f6b8065680b29",
@@ -56,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tokopedia.7ed54399.webp"
   },
   {
-    "revision": "6020acaa4856bc0dd43077890db69126",
+    "revision": "665439c3d95743265472d3934ffb02c5",
     "url": "/index.html"
   },
   {
-    "revision": "7e07fe98bf87a27c35c6",
-    "url": "/js/about.ccf2dc0e.js"
+    "revision": "84c0cc49de4dcec0fd40",
+    "url": "/js/about.71a6433e.js"
   },
   {
-    "revision": "2d99d163d6eb580b64fe",
-    "url": "/js/app.3b904fdc.js"
+    "revision": "1c1413a8f32e390dbb80",
+    "url": "/js/app.6ecfa760.js"
   },
   {
     "revision": "e34120e5e60064cf0bd0",
