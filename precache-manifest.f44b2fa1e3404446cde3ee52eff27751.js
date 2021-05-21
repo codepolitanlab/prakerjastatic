@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2794a991c678fdac784ab975cd4328c7",
+    "revision": "5d0df16438e3f3ad7479a3c45e8a0c2a",
     "url": "/404.html"
   },
   {
-    "revision": "84c0cc49de4dcec0fd40",
-    "url": "/css/about.95c00187.css"
+    "revision": "85bfa853cd84149cc9c2",
+    "url": "/css/about.4b091920.css"
   },
   {
-    "revision": "1c1413a8f32e390dbb80",
+    "revision": "a422efe5277651e74ef3",
     "url": "/css/app.80741af9.css"
   },
   {
@@ -36,16 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/Tentukan_Waktu_Sendiri.f9fa2907.webp"
   },
   {
-    "revision": "4b87af8d02473b94739c7b2431f77a33",
-    "url": "/img/belajar-coding-home-dinda.4b87af8d.webp"
-  },
-  {
     "revision": "684add1f5c6fe384bedb95719359b843",
     "url": "/img/img-mentoring.684add1f.png"
   },
   {
     "revision": "4c2227cd8e8bcabdccb115b818513746",
     "url": "/img/logo-cp.4c2227cd.webp"
+  },
+  {
+    "revision": "b32785a88822b6b636fdb8641df1bf6f",
+    "url": "/img/prakerja-about.b32785a8.webp"
   },
   {
     "revision": "f6996bbb36e5052d15546cca4e6413b6",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tokopedia.7ed54399.webp"
   },
   {
-    "revision": "0c322b15c9479d4ab1ec28939191fb1b",
+    "revision": "6181357cb290960c30ee7df36718eac6",
     "url": "/index.html"
   },
   {
-    "revision": "84c0cc49de4dcec0fd40",
-    "url": "/js/about.71a6433e.js"
+    "revision": "85bfa853cd84149cc9c2",
+    "url": "/js/about.609dd75b.js"
   },
   {
-    "revision": "1c1413a8f32e390dbb80",
-    "url": "/js/app.6ecfa760.js"
+    "revision": "a422efe5277651e74ef3",
+    "url": "/js/app.2a3716ce.js"
   },
   {
     "revision": "e34120e5e60064cf0bd0",
