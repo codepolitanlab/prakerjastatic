@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "85bfa853cd84149cc9c2",
-    "url": "/css/about.4b091920.css"
+    "revision": "0e188803a9e72679488b",
+    "url": "/css/about.af5dcae9.css"
   },
   {
-    "revision": "a422efe5277651e74ef3",
+    "revision": "4ec874fcedb875413e82",
     "url": "/css/app.80741af9.css"
   },
   {
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tokopedia.7ed54399.webp"
   },
   {
-    "revision": "6181357cb290960c30ee7df36718eac6",
+    "revision": "a984db1d3ee36ad08d8c5761660a942f",
     "url": "/index.html"
   },
   {
-    "revision": "85bfa853cd84149cc9c2",
-    "url": "/js/about.609dd75b.js"
+    "revision": "0e188803a9e72679488b",
+    "url": "/js/about.c1a85837.js"
   },
   {
-    "revision": "a422efe5277651e74ef3",
-    "url": "/js/app.2a3716ce.js"
+    "revision": "4ec874fcedb875413e82",
+    "url": "/js/app.40559f4d.js"
   },
   {
     "revision": "e34120e5e60064cf0bd0",
