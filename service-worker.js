@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.96ddfe01976c80168b8f3d7903c4067f.js"
+  "/precache-manifest.6c0bf1acca202c9d33e762037a901307.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nprakerja"});

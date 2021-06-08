@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "8deb18dda2d4bbf6aa22",
+    "revision": "d58a654c69277bd8531c",
     "url": "/css/about.42143842.css"
   },
   {
-    "revision": "b284f5876de289f3dd47",
+    "revision": "d723842eb8273aa3e8d3",
     "url": "/css/app.80741af9.css"
   },
   {
@@ -112,16 +112,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/udemy.2731769f.png"
   },
   {
-    "revision": "c28434e47619a7d8873afb32c03bb003",
+    "revision": "2ea8e6928b67b780628361b1c467e3b3",
     "url": "/index.html"
   },
   {
-    "revision": "8deb18dda2d4bbf6aa22",
-    "url": "/js/about.0cdab175.js"
+    "revision": "d58a654c69277bd8531c",
+    "url": "/js/about.1e3986be.js"
   },
   {
-    "revision": "b284f5876de289f3dd47",
-    "url": "/js/app.c7a726bb.js"
+    "revision": "d723842eb8273aa3e8d3",
+    "url": "/js/app.2e1d7b4a.js"
   },
   {
     "revision": "e34120e5e60064cf0bd0",
